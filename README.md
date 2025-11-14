@@ -1,2 +1,17 @@
-# portfolio
-Hi, I’m Harsh Pandey — a self-taught Frontend Developer passionate about building fast, modern, and user-friendly web experiences. I enjoy turning ideas into real, working websites using HTML, CSS, JavaScript, and modern UI design principles. I focus on clean layouts, responsive design, and smooth user interactions.
+# 👋 Hi, I'm Harsh Pandey
+
+I'm a Frontend Developer and BCA student who loves creating clean, responsive, and interactive web applications.  
+My skills include **HTML, CSS, JavaScript, Python, Java, MySQL, Oracle**, and I enjoy building projects that solve real problems.
+
+### 🚀 What I Do
+- Build responsive websites and UIs  
+- Make small tools and applications (Weather App, To-Do App, etc.)  
+- Experiment with APIs and automation  
+- Learn new technologies every day  
+
+### 🎯 Goals
+To become a full-stack developer and create smart, fast, and useful digital solutions using modern tech and AI.
+
+### 📫 Contact
+**Email:** hapa1929@gmail.com  
+**Phone:** 6388050042  
